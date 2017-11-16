@@ -42,5 +42,5 @@ function adjacentElementsProduct(inputArray) {
 - I'll have to go through each element and multiply or compare it to the element on either side.
 - Loop, forEach, or Map will be needed; I couldn't solve it with forEach or map so just used a for loop.
 - Once I have my loop working correctly, I'll need to store the results as an array so I can apply a math function (required research on math functions and application).
-- My solution did not work until I realized returning the Math function on the new array had to be outside the loop.
+- My solution did not work until I realized the 'return' had to be outside the loop.
 
